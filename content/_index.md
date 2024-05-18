@@ -8,7 +8,7 @@ sections:
   - block: hero
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
-      title: Hugo Academic Theme
+      title: Zeren Li
       image:
         filename: hero-academic.png
       cta:
@@ -39,14 +39,14 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: 
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
     content:
-      title: Skills
+      title: Research
       text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
+      # Choose a user to display skills from (a folder name within `content/publications.md`)
       username: admin
     design:
       columns: '1'
